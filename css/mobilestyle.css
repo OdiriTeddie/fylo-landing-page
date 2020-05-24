@@ -1,0 +1,111 @@
+.header__showcase{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.header__showcase__email{
+    width: 100%;
+}
+
+.btn--showcase {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.header__showcase__sum{
+    order: 4;
+}
+
+.header__showcase__sum h1,
+.header__showcase__sum p{
+    text-align: center;
+}
+
+.header__showcase__sum form {
+    display: block;
+}
+
+
+.more-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.more-details__left {
+    order: 2;
+}
+
+.more-details__left h2 {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.more-details__left-p {
+    font-size: 1.05rem;
+    width: 400px;
+   
+}
+
+.more-details__left-p-m {
+    margin-bottom: 3rem;
+}
+
+.more-details__left .see-how{
+    margin: auto;
+}
+
+
+.more-details__testimonial {
+    margin: 3rem auto 1rem;
+    
+}
+
+
+.container--access {
+    display: flex;
+    flex-direction: column;
+}
+
+.access__today h2 {
+    text-align: center;
+}
+
+.access__today p{
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.access__form {
+    width: 350px;
+    margin-left: 0;
+    margin: 0 auto;
+}
+
+.access__form button {
+    display: block;
+    width: 100%;
+}
+
+.container-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.main-footer--col {
+    margin-bottom: 2rem;
+}
+
+.main-footer--col ul li{
+    margin-bottom: 1rem;
+}
+
+.main-footer__fourth {
+    text-align: center;
+}
+
+
